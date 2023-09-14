@@ -1,0 +1,40 @@
+#wrapper {
+    overflow: hidden;
+    margin-top: 30px;
+}
+
+#first {
+    margin-left: 100px;
+    width: 600px;
+    height: 500px;
+    float: left;
+    border: 4px solid green;
+    padding: 10px;
+    background-image: url(https://images.assetsdelivery.com/compings_v2/4zevar/4zevar1901/4zevar190100149.jpg);
+}
+
+#button-container {
+  display: inline-block;
+}
+
+button {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+#second {
+    overflow: hidden;
+    margin-right: 100px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.graph-edges-label {
+  border-style: none;
+}
+
+#medals{
+  display: flex; justify-content: center;
+}

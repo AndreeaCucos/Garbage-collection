@@ -1,0 +1,33 @@
+.homeContainer {
+  /*background-color: #0E4399; /* Replace with your preferred background color */
+  /* background-color: white; */
+  background-image: url('../public/images/map.jpg');
+  background-size: cover;
+
+  /* Set the background image to be fixed so it doesn't scroll with the content */
+  background-attachment: fixed;
+
+  /* Set the background image to be centered vertically and horizontally */
+  background-position: center center;
+
+  /* Set the background color to be used if the image is not available */
+  background-color: #cccccc;
+
+  /* Set the height to 100% of the viewport */
+  /* height: 100vh; */
+  /* background-size: 90% 100%; */
+}
+
+.add-text{
+  /* position: absolute; */
+  /* top: 130px; */
+  /* left: 650px; */
+  width: 200px;
+  height: 150px;
+}
+
+
+/* #container{
+  background-color: #0f553e;
+} */
+/*  4d99cd*/

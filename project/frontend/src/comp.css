@@ -1,0 +1,18 @@
+.leaflet-routing-container .leaflet-routing-alternatives-container {
+    display: none;
+}
+
+.leaflet-label {
+    display: block !important;
+}
+
+.leaflet-routing-icon {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border: 2px solid #000;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 14px;
+    line-height: 30px;
+}

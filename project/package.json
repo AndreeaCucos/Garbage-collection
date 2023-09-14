@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "http-proxy-middleware": "^2.0.6",
+    "leaflet-labels": "^1.0.5",
+    "leaflet-routing-machine": "^3.2.12",
+    "react-leaflet-routing-machine": "^0.0.5",
+    "react-router-dom": "^6.8.2",
+    "sigma": "^2.4.0"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^14.0.0",
+    "jest": "^29.5.0"
+  }
+}
