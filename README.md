@@ -3,5 +3,6 @@ The implemented application falls into the field of logistics management and opt
 
 Technologies used: JavaScript, Python, HTML, CSS, and SQL.
 Databases: OracleSQL, Neo4j.
+Design pattern used: Strategy.
 
 
